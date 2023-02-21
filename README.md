@@ -4,4 +4,4 @@
 
 </p>
 
-<h1 align="center">Material Bread</h1>
+<h1 align="center">CS519.N11 - PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC</h1>
